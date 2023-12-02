@@ -6,4 +6,5 @@
 
 # Day 2
 **Problem** : Part 1 : Check max and add id, part 2 : get the max 
+
 **Solution** : String splitting
